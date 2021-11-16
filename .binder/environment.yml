@@ -4,6 +4,4 @@ dependencies:
 - fenics
 - precice
 - pyprecice
-- pip
-- pip:
-  - fenicsprecice
+- fenicsprecice
